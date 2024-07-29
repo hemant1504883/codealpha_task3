@@ -33,3 +33,5 @@ Functions:
   - Opens the corresponding file (`<username>.txt`) and reads the stored username and password.
   - Checks if the entered credentials match the stored credentials and provides feedback accordingly.
 
+# OUTPUT-
+![WhatsApp Image 2024-07-28 at 23 06 30_cba271da](https://github.com/user-attachments/assets/549c285c-3f72-4084-a9bc-fd939bcc20ec)
